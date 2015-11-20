@@ -1,0 +1,31 @@
+hr{
+	border: none;
+    height: 4px;
+    /* Set the hr color */
+    color: #BCBBBB; /* old IE */
+    background-color: #BCBBBB; /* Modern Browsers */
+}
+
+.colorMuted{
+	color: #747704;
+}
+
+.bigName{
+font-size: 44px;
+font-weight: 100;
+font-family: 'Lato', sans-serif;	
+}
+
+.title{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	margin-top:0px;
+}
+
+.featuredWork{
+	font-size: 32px;
+	padding-left: 12px;
+	color: #BCBBBB;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;	
+}
